@@ -12,4 +12,4 @@ int funzione (int a){
         }
     }
     return g;
-}
+} 
