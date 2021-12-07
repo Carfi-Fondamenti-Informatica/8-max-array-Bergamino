@@ -2,3 +2,4 @@
 #define ESERCITAZIONE_7_ARRAY_LIB_H
 int funzione (int a);
 #endif //ESERCITAZIONE_7_ARRAY_LIB_H
+ 
