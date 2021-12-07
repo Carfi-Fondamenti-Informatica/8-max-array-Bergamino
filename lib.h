@@ -1,5 +1,6 @@
-#ifndef ESERCITAZIONE_7_ARRAY_LIB_H
-#define ESERCITAZIONE_7_ARRAY_LIB_H
-int funzione (int a);
-#endif //ESERCITAZIONE_7_ARRAY_LIB_H
- 
+#ifndef ESERCITAZIONE_8_ARRAY_LIB_H
+#define ESERCITAZIONE_8_ARRAY_LIB_H
+
+int somma(int numeri[], int dimensione);
+
+#endif //ESERCITAZIONE_8_ARRAY_LIB_H
