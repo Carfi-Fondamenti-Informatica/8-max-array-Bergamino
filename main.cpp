@@ -6,7 +6,6 @@ using namespace std;
 int main() {
     int a=0;
     cin >> a;
-    int numeri[a];
-    cout << somma(numeri, a)<<endl;
+    cout << funzione(a)<<endl;
     return 0;
 }
