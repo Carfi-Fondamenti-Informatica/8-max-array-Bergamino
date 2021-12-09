@@ -2,11 +2,12 @@
 #include "lib.h"
 using namespace std;
 
-int funzione (int a){
-    int g=0,r=0,numeri[a];
+float funzione (int a){
+    int g=0,r=0;
+    float numeri[a];
     for (int i=0;i<a;i++){
         cin >> numeri[r];
-        int d = numeri[r];
+        float d = numeri[r];
         r++;
         if(d>g){
             g=d;
