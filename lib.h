@@ -1,6 +1,6 @@
 #ifndef ESERCITAZIONE_8_ARRAY_LIB_H
 #define ESERCITAZIONE_8_ARRAY_LIB_H
 
-int funzione (int);
+float funzione (int);
 
 #endif //ESERCITAZIONE_8_ARRAY_LIB_H
